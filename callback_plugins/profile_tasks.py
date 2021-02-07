@@ -1,6 +1,5 @@
-import datetime
+from datetime import time
 import os
-import time
 
 from ansible.plugins.callback import CallbackBase
 
